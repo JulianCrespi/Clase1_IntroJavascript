@@ -2,7 +2,7 @@
 
 Test URL: https://juliancrespi.github.io/Clase1_IntroJavascript/
 
-CSS Media Queries Assignment for Desafio Latam Fullstack Javascript course
+Intro to Javascript for Desafio Latam Fullstack Javascript course
 #
 
 #
