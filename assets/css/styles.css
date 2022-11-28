@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card {
+    color: white;
+    background-color: rgb(86, 127, 56);
+    margin: 40px;
+    padding: 10px;
+    box-shadow: 0 0 10px 0 black;
+
+}
+
+.card img {
+    margin: 30px 0px;
+
+}
+
+.card-text {
+    text-align: center;
+}
+
+.btn {
+    display: block;
+    background-color: orange;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.btn:hover {
+    background-color: rgb(255, 208, 120);
+}
+
+
+.resumen {
+    margin-top: 40px;
+    font-size: larger;
+
+}
+
+
+.resumen_color {
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    border-radius: 50%;
+    background-color: black;
+
+}
+
+.resumen div {
+    margin-bottom: 10px;
+}
